@@ -1,4 +1,4 @@
-[![Header](https://github.com/CherepkoDev/CherepkoDev/blob/main/Frame%201s.jpg)]
+![Header](https://github.com/CherepkoDev/CherepkoDev/blob/main/Frame%201s.jpg)
 ![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
 
 ## About me
